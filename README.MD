@@ -16,3 +16,11 @@ Tiles TouchDesigner Week 8 :
  just sort of rotating or translating. Even though the effet is made with just rotating, I was able to use a bunch of different mirror nodes to first create a unique
  sort of star shape. Then used mirroring and rotating to give it a cool animated pattern. The Starts rotate, then thanks to mirroring it looks like two little dots are 
  constantly moving between the stars, then every few seconds it looks like 2 tiny starts apear for a short time before disappearing. All becouse of specific mirroring and placement, that was really just accidental.
+
+StarWars TouchDesigner Week 9 :
+ I also quite liked this peice, some of it was accidental, in the way I started it, found something cool, then decided to build on it. Using a ramp and a noise
+node I played around with settings till I made a sort of rift or a dap going down the middle of the screen. Having been May the 4th, star wars was somewhat on my mind, so with another ramp I turned it into a sort of Red vs Blue or dark side vs light side. Of course I added little bits of animation to make it look a little cooler.
+
+TorusThing TouchDesigner Week 11 :
+This was from week 11's class, Wehre I played around with instancing with different shapes, rather then just a grid. I found using a torus gave a fairly wonky effect, and went into trying to animate something with that. It was difficult trying to get the camera to work well, but eventually I got a sort of effect that I thought looked kind of cool. Reminding me a little bit of Caine from The Amazing Digital Circous Show.
+
